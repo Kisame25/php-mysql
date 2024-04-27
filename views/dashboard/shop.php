@@ -4,7 +4,6 @@
 <div class="flex">
     <div class="mx-auto mt-5">
         <form method="POST" enctype="multipart/form-data">
-            <div>Hello world</div>
             <div class="w-[400px] relative border-2 border-gray-300 border-dashed rounded-lg p-6" id="dropzone">
                 <div class="text-center" id='icon-upload'>
                     <img class="mx-auto h-12 w-12" src="https://www.svgrepo.com/show/357902/image-upload.svg" alt="">
