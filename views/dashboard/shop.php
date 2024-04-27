@@ -7,7 +7,6 @@
             <div class="w-[400px] relative border-2 border-gray-300 border-dashed rounded-lg p-6" id="dropzone">
                 <div class="text-center" id='icon-upload'>
                     <img class="mx-auto h-12 w-12" src="https://www.svgrepo.com/show/357902/image-upload.svg" alt="">
-
                     <h3 class="mt-2 text-sm font-medium text-gray-900">
                         <label for="file_upload" class="relative cursor-pointer">
                             <span>Drag and drop</span>
