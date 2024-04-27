@@ -19,7 +19,6 @@
                         PNG, JPG, GIF up to 10MB
                     </p>
                 </div>
-
                 <img src="" class="mt-4 mx-auto max-h-40 hidden" id="preview">
             </div>
             <input type="text" name='cmd'>
